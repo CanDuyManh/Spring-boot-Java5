@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.poly.controller.home.HomeController&apos; to &apos;IndextController&apos;&#x0D;&#x0A;- Original project: &apos;java5&apos;&#x0D;&#x0A;- Original element: &apos;com.poly.controller.home.HomeController&apos;&#x0D;&#x0A;- Renamed element: &apos;com.poly.controller.home.IndextController&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;HomeController&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.poly.controller.home{HomeController.java[HomeController" matchStrategy="1" name="IndextController" qualified="false" references="true" similarDeclarations="false" stamp="1623606146780" textual="false" version="1.0"/>
+</session>
